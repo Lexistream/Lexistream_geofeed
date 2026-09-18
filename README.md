@@ -1,2 +1,1 @@
-# Lexistream_geofeed
-Geofeeds
+# Lexistream
